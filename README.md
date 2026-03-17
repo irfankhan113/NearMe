@@ -281,9 +281,10 @@ Tamil Nadu, India.
 
 <img width="1916" height="1070" alt="Screenshot 2026-03-16 131210" src="https://github.com/user-attachments/assets/6e285253-e1f5-440b-8c7f-4812c54ae89e" />
 
-![Uploading Screenshot 2026-03-16 131230.png…]()
+<img width="1900" height="1002" alt="mp3" src="https://github.com/user-attachments/assets/aaf1b799-4a48-4cd0-b21c-34f47c4ba438" />
 
-![Uploading mp3.png…]()
+<img width="1887" height="1065" alt="Screenshot 2026-03-16 131230" src="https://github.com/user-attachments/assets/63bf795a-7ce5-4afb-a16f-4f0991526779" />
+
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
